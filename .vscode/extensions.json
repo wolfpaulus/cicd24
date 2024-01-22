@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "msazurermtools.azurerm-vscode-tools",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azureappservice",
+    "ms-vscode.azure-account",
+    "github.vscode-github-actions",
+    "redhat.vscode-yaml",
+    "ms-python.autopep8",
+    "ms-python.vscode-pylance",
+    "ms-python.python"
+    ]
+}
