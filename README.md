@@ -1,6 +1,6 @@
 # ERAU CS 399 2014 
 
-[![run-tests](../../actions/workflows/build_deploy.yml/badge.svg)](../../actions/workflows/python-test.yml)
+[![run-tests](../../actions/workflows/build_deploy.yml/badge.svg)](../../actions/workflows/build_deploy.yml)
 
 
 ## CI/CD
