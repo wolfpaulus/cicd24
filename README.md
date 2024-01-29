@@ -1,12 +1,9 @@
-# ERAU CS 399 2014 
-
+# ERAU CS 399 2024 
+### Status ..
 [![run-tests](../../actions/workflows/build_deploy.yml/badge.svg)](../../actions/workflows/build_deploy.yml)
 
 
 ## CI/CD
-### Status ..
-.. buttons .. 
-
 CI is a software development practice in which incremental code changes are made frequently and reliably. 
 Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable. 
 The code is then delivered quickly and seamlessly as a part of the CD process.
