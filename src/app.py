@@ -9,7 +9,7 @@ from log import logger
 
 def ui(items: [int]) -> None:
 
-    st.title("Streamlit Demo v0.3")
+    st.title("Streamlit Demo v0.4")
     st.subheader(".. on Azure")
     st.line_chart(items)
 
