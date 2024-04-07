@@ -1,7 +1,10 @@
 # ERAU CS 399 2024 
 ### Status ..
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 [![run-tests](../../actions/workflows/build_deploy.yml/badge.svg)](../../actions/workflows/build_deploy.yml)
 
+https://img.shields.io/website-up-down-green-red/https/webapp-emsdegnzr5u4q.azurewebsites.net.svg
 
 ## CI/CD
 CI is a software development practice in which incremental code changes are made frequently and reliably. 
